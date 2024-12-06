@@ -1,0 +1,8 @@
+#/usr/share/xsession
+[Desktop Entry]
+Encoding=UTF-8
+Name=dwm
+Comment=DWM
+Exec=~/x/autostart.sh
+Icon=dwm
+Type=XSession
